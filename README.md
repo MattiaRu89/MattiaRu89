@@ -37,30 +37,29 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 # PROJECTS
 
-**Name** *Ecommerce_review_analysis*
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MattiaRu89/My_project1/blob/main/Ecommerce_review_analysis.ipynb">Ecommerce Review Analysis</a></td>
+    <td>Analysis of e-commerce reviews through TextBlob library - indicating products where service could be improved.</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MattiaRu89/My_project1/blob/main/MKB2.ipynb">Market Basket Analysis</a></td>
+    <td>Identify key purchase drivers in the customer basket.</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MattiaRu89/My_project1/blob/main/European%20Social%20Survey.twbx">European Social Survey Dashboard</a></td>
+    <td>Dashboard of general opinion of European people about climate change.</td>
+    <td>Tableau</td>
+  </tr>
+</table>
 
-**Link** *https://github.com/MattiaRu89/My_project1/blob/main/Ecommerce_review_analysis.ipynb*
-
-**Description** *Analysis of e-commerce reviews through textBlob library - indicating products where service could be improved.*
-
-**Tech used** *Python*
-
-
-**Name** *Market Basket Analysis*
-
-**Link** *https://github.com/MattiaRu89/My_project1/blob/main/MKB2.ipynb*
-
-**Description** *Identify key purchase drivers in the customer basket*
-
-**Tech used** *Python*
-
-**Name** *European Social Survey Dashboard*
-
-**Link** *https://github.com/MattiaRu89/My_project1/blob/main/European%20Social%20Survey.twbx*
-
-**Description** *Dashboard of general opinion of European people about climate change.*
-
-**Tech used** *Tableau*
 
 # Experience
 
