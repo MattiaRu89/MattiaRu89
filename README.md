@@ -18,7 +18,8 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 - 📫 How to reach me **mrusso9891@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDHGPsKBBJWxjLRVAKHVJ2xHk48G3mOh/view?usp=sharing](https://drive.google.com/file/d/1fDHGPsKBBJWxjLRVAKHVJ2xHk48G3mOh/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fDHGPsKBBJWxjLRVAKHVJ2xHk48G3mOh/view?usp=sharing">My CV</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
