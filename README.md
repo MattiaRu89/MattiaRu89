@@ -34,3 +34,25 @@ I have a wide range of transferrable skills that I can apply and continue develo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattiaru89&show_icons=true&locale=en" alt="mattiaru89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiaru89&" alt="mattiaru89" /></p>
+
+SKILLS
+Python, SQL, Tableau, Statistic, Machine Learning, Hypothesis Test
+
+PROJECTS
+Name
+Description
+Tech used
+Github link
+Market Basket Analysis
+Identify key purchase drivers in the customer basket.
+Python
+Here
+Ecommerce Review Analysis
+Analysis of e-commerce reviews through textBlob library - indicating products where service could be improved.
+Python, SQL
+Here
+Climate Change European Dashboard 
+Dashboard of general opinion of European people about climate change.
+Tableau
+Here 
+
