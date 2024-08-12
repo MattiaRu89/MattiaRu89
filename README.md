@@ -20,6 +20,8 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fDHGPsKBBJWxjLRVAKHVJ2xHk48G3mOh/view?usp=sharing">My CV</a>
 
+- 📄 A bit more About me <a href="https://drive.google.com/drive/search?q=gallup" target="_blank">My Gallup Test</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -81,6 +83,22 @@ Data Visualization: how to visualize and present data to make data relatable (Ta
 # SKILLS
 
 *Python, SQL, Tableau, Statistic, Machine Learning, Hypothesis Test*
+
+# Communication 
+
+Thanks to my experience as a manager in a fast-paced environment, I successfully navigated challenges that required the cooperation of a large team to deliver the expected customer experience. Clear communication with my teammates was essential, allowing me to effectively convey timing, priorities, and key business insights. This ensured a strong understanding of targets and strategies, leading to well-coordinated efforts across the team.
+
+# Team-Player
+
+Working in various countries and across different business units has allowed me to develop strong collaboration skills and adaptability to diverse work styles. In my most recent role as a Store Manager, I collaborated closely with stakeholders, including Financial and Commercial teams, to define strategies that were then implemented by the in-store team.
+
+# Learining
+
+I have a passion for learning, especially when it involves working with data and making analysis outcomes accessible to stakeholders. Throughout my career, I’ve consistently sought to improve my skills independently, starting with my first Excel course to meet a specific work need. Additionally, I enjoy gaining new competencies by collaborating with and learning from more experienced professionals.
+
+# Problem Solving
+
+I am skilled at diagnosing and resolving practical problems, leveraging my expertise in Boolean logic and coding to deliver effective solutions. My experience includes tackling diverse coding challenges and successfully navigating complex projects from inception to completion.
 
 # Work Experience 
 
