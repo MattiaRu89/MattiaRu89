@@ -20,7 +20,7 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fDHGPsKBBJWxjLRVAKHVJ2xHk48G3mOh/view?usp=sharing">My CV</a>
 
-- 📄 A bit more About me <a href="https://drive.google.com/drive/search?q=gallup" target="_blank">My Gallup Test</a>
+- 📄 A bit more About me <a href="https://drive.google.com/file/d/19MhwljRppP3TYeoVkuZe0pdsX2K9tJz1/view?usp=sharing" target="_blank">My Gallup Test</a>
 
 
 <h3 align="left">Connect with me:</h3>
