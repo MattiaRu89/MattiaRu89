@@ -35,24 +35,95 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiaru89&" alt="mattiaru89" /></p>
 
-SKILLS
-Python, SQL, Tableau, Statistic, Machine Learning, Hypothesis Test
+# PROJECTS
 
-PROJECTS
-Name
-Description
-Tech used
-Github link
-Market Basket Analysis
-Identify key purchase drivers in the customer basket.
-Python
-Here
-Ecommerce Review Analysis
-Analysis of e-commerce reviews through textBlob library - indicating products where service could be improved.
-Python, SQL
-Here
-Climate Change European Dashboard 
-Dashboard of general opinion of European people about climate change.
-Tableau
-Here 
+**Name** *Ecommerce_review_analysis*
+
+**Link** *https://github.com/MattiaRu89/My_project1/blob/main/Ecommerce_review_analysis.ipynb*
+
+**Description** *Analysis of e-commerce reviews through textBlob library - indicating products where service could be improved.*
+
+**Tech used** *Python*
+
+
+**Name** *Market Basket Analysis*
+
+**Link** *https://github.com/MattiaRu89/My_project1/blob/main/MKB2.ipynb*
+
+**Description** *Identify key purchase drivers in the customer basket*
+
+**Tech used** *Python*
+
+**Name** *European Social Survey Dashboard*
+
+**Link** *https://github.com/MattiaRu89/My_project1/blob/main/European%20Social%20Survey.twbx*
+
+**Description** *Dashboard of general opinion of European people about climate change.*
+
+**Tech used** *Tableau*
+
+# Experience
+
+Data Analyst Graduate - Boolean UK
+		      
+Date February 2024 - June 2024
+
+Completed a part-time 18-week data analyst academy. Learned all the hard skills needed to analyze data to make decisions, implement  machine learning models, and build  practical data Visualization Tools and applications ready for real-world deployment:
+
+Python: cleaning, analyzing, and working with large data.
+
+SQL: storing data efficiently, and finding relationships between data sets.
+
+Statistical Learning: statistical ideas that underpin machine learning.
+
+Data Visualization: how to visualize and present data to make data relatable (Tableau).
+
+# SKILLS
+
+*Python, SQL, Tableau, Statistic, Machine Learning, Hypothesis Test*
+
+# Work Experience 
+
+**Manager Primark**
+						
+Date 5/2024-Present
+
+Ensured accuracy of stock data across allocated departments, leading to improved data reliability.
+
+Analyzed and optimized inventory availability, focusing on size and option control to align with customer demand.
+
+Conducted regular reviews of commercial planning and layouts, using data-driven insights to enhance departmental performance.
+
+Addressed and resolved customer issues by analyzing feedback and trends, escalating complex cases to senior management when necessary.
+
+**Store Manager Decathlon UK**
+
+Date 10/2020-4/2024
+
+Analyzed and managed monthly, quarterly, and yearly financial targets, using data-driven forecasting to inform business strategies.
+
+Conducted P&L analysis and monitored key financial ratios, implementing cost control measures based on insights.
+
+Developed and refined local commercial policies through analysis of sales data and competitor performance.
+
+Analyzed inventory losses and implemented data-backed strategies to minimize them.
+
+**Operations Manager Decathlon UK**
+
+Date 11/2019-10/2020
+
+Analysed the level of stock and ensured the right availability of stock through weekly stock takes.
+
+Analysed the losses and created actions and procedures to prevent and control them.
+
+Promoted and boosted a culture of efficiency through creating and sharing procedures and best practices.
+
+**Department Manager Decathlon Italy/UK**
+			   
+Date 09/2011-11/2019
+
+Hired, coached and trained teammates according to the Company’s expectation and standards.
+
+Kept and ensure the respect of quality standard of layout and boosted the commerciality of the departments.
+
 
