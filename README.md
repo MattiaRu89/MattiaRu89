@@ -92,7 +92,7 @@ Thanks to my experience as a manager in a fast-paced environment, I successfully
 
 Working in various countries and across different business units has allowed me to develop strong collaboration skills and adaptability to diverse work styles. In my most recent role as a Store Manager, I collaborated closely with stakeholders, including Financial and Commercial teams, to define strategies that were then implemented by the in-store team.
 
-# Learining
+# Learning
 
 I have a passion for learning, especially when it involves working with data and making analysis outcomes accessible to stakeholders. Throughout my career, I’ve consistently sought to improve my skills independently, starting with my first Excel course to meet a specific work need. Additionally, I enjoy gaining new competencies by collaborating with and learning from more experienced professionals.
 
