@@ -152,7 +152,7 @@ Promoted and boosted a culture of efficiency through creating and sharing proced
 
 **Department Manager Decathlon Italy/UK**
 			   
-Date 09/2011-11/2019
+Date 09/2014-11/2019
 
 Hired, coached and trained teammates according to the Company’s expectation and standards.
 
