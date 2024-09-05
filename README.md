@@ -12,7 +12,7 @@ I have a wide range of transferrable skills that I can apply and continue develo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiaru89&label=Profile%20views&color=0e75b6&style=flat" alt="mattiaru89" /> </p>
 
-- 🔭 I’m currently working on **F1_historic_data_dashboard**
+- 🔭 I’m currently working on **Statistic_Fundamental and Power BI fundamental**
 
 - 🌱 I’m currently learning **Power BI, Ruby**
 
@@ -60,6 +60,13 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td><a href="https://github.com/MattiaRu89/My_project1/blob/main/European%20Social%20Survey.twbx">European Social Survey Dashboard</a></td>
     <td>Dashboard of general opinion of European people about climate change.</td>
     <td>Tableau</td>
+  </tr>
+  <tr>
+    <td><a href=["https://github.com/MattiaRu89/F1_Dashboard.git">F1_Dashboard</a></td>
+    <td>Dashboard displaying results of Pilots and Constructors since 1956 in the F1.</td>
+    <td>PowerBI</td>
+  </tr> 
+  <tr>
   </tr>
 </table>
 
