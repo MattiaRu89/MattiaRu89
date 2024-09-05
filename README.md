@@ -57,8 +57,8 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td>Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MattiaRu89/My_project1/blob/main/European%20Social%20Survey.twbx">European Social Survey Dashboard</a></td>
-    <td>Dashboard of general opinion of European people about climate change.</td>
+    <td><a href="https://github.com/MattiaRu89/European-Social-Survey.git">European Social Survey Dashboard</a></td>
+    <td>Dashboard of the general opinion of European people about climate change.</td>
     <td>Tableau</td>
   </tr>
   <tr>
