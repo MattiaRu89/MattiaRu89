@@ -62,7 +62,7 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td>Tableau</td>
   </tr>
   <tr>
-    <td><a href=["https://github.com/MattiaRu89/F1_Dashboard.git">F1_Dashboard</a></td>
+    <td><a href="https://github.com/MattiaRu89/F1_Dashboard.git">F1_Dashboard</a></td>
     <td>Dashboard displaying results of Pilots and Constructors since 1956 in the F1.</td>
     <td>PowerBI</td>
   </tr> 
