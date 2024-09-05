@@ -67,6 +67,13 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td>PowerBI</td>
   </tr> 
   <tr>
+</tr>
+  <tr>
+    <td><a href="https://github.com/MattiaRu89/Super_Market.git">Super_Market_sales</a></td>
+    <td>Analysis of Sales - trends - Customers - Means of Payment and Forecast - of a Super Market.</td>
+    <td>PowerBI</td>
+  </tr> 
+  <tr>
   </tr>
 </table>
 
