@@ -74,6 +74,9 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td>PowerBI</td>
   </tr> 
   <tr>
+    <td><a href= "https://github.com/MattiaRu89/Football_Dashboard.git">Football_Dashboard</a></td>
+    <td>Dashboard showing all the main stats of Premier League, Serie A, Ligue 1, Bundesliga, Liga and their teams and players.</td>
+    <td>Google Looker</td>
   </tr>
 </table>
 
