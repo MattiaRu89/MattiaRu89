@@ -78,6 +78,15 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td>Dashboard showing all the main stats of Premier League, Serie A, Ligue 1, Bundesliga, Liga and their teams and players.</td>
     <td>Google Looker</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/MattiaRu89/WeatherIntheWorld.git">Weatherapp</a></td>
+    <td>Python Script that through API allows you to see in real-time the weather condition, temperature, wind speed and humidity of any city .</td>
+    <td>Python</td>
+  </tr>
+  <tr>  
+    <td><a href="https://github.com/MattiaRu89/SalaryCalculator.git">Net Salary Calculator</a></td>
+    <td>Python Script that, using the library tkinter and messagebox, creates a graphic user interface to calculate the net salary by adding the gross salary and the percentage of taxation .</td>
+    <td>Python, tkinter, messagebox</td>
 </table>
 
 
