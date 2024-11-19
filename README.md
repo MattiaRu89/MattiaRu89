@@ -87,7 +87,12 @@ I have a wide range of transferrable skills that I can apply and continue develo
     <td><a href="https://github.com/MattiaRu89/SalaryCalculator.git">Net Salary Calculator</a></td>
     <td>Python Script that, using the library tkinter and messagebox, creates a graphic user interface to calculate the net salary by adding the gross salary and the percentage of taxation .</td>
     <td>Python, tkinter, messagebox</td>
+  </tr>  
+  <tr>  
+    <td><a href="https://github.com/MattiaRu89/Netflix_User_Analysis.git>Netflix User Analysis</a></td>
+    <td>Python This analysis provides valuable insights into user demographics and behavior, focusing on various factors such as gender, age, device usage, subscription types, and revenue. We aim to understand the relationship between key attributes like age, subscription plan, and revenue, offering actionable insights for business decision-making</td>
 </table>
+
 
 
 # Experience
